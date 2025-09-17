@@ -1,0 +1,4 @@
+[20 points] Complete the python program (similarity.py) to find and output the two most similar 
+documents from the cleaned_documents.csv dataset based on their cosine similarity. The output should 
+follow this format: "The most similar documents are document 10 and document 100 with cosine 
+similarity = x." 
