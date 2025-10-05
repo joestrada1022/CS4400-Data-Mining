@@ -1,0 +1,4 @@
+[20 points] Complete the Python program (pca.py) that will apply PCA multiple times on the 
+heart_disease_dataset.csv, each time removing a single and distinct feature and printing the 
+corresponding variance explained by PC1. Finally, find and print the maximal PC1 variance observed 
+during the 10 iterations. 
