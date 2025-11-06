@@ -1,0 +1,16 @@
+5. 
+[15 points] Complete the Python program (decision_tree.py) that will read the files 
+cheat training_l .csv, cheat training_2.csv, and cheat_training_3.csv to build decision trees. Each of 
+those training sets has a different number of instances. Your goal is to train, test, and output the 
+performance of the 3 models created by using each training set on the test set provided 
+(cheat test.csv). You must repeat this process 10 times (train and test by using a different training 
+set), averaging the accuracies as the final classification performance of each model. Requirements: 
+The feature 'Marital Status' must be one-hot-encoded, and the feature 'Taxable Income' must be 
+converted to a float. 
+
+
+
+6. [15 points] Complete the Python program (roc_curve.py) that will read the file cheat_data.csv, split the 
+training and test data according to the ratio provided, and compute the ROC curve for a decision tree 
+classifier. Requirements: The feature 'Marital Status' must be one-hot-encoded, and the feature 
+'Taxable Income' must be converted to a float. 
