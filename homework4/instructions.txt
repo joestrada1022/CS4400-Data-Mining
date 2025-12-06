@@ -1,0 +1,10 @@
+3. 
+[20 points] Complete the Python program (naive_bayes.py) that will read the file weather _ training.csv 
+(training set) and classify each test instance from the file weather _ test (test set). Since the original class 
+values are real numbers, use the discretization strategy provide in the source code to keep only 1 1 values 
+for the classes. You need to create a grid search to test the Naive Bayes hyperparameter's (smoothing) 
+value, updating and printing the highest accuracy calculated during the experiments. Any predictions 
+[-15%,+15%] distant from the real output values should be considered correct. The output messages 
+should follow this format: 
+Highest Naive Bayes accuracy so far: 0.3 
+Parameter: s = 1 
